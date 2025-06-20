@@ -1,12 +1,18 @@
-# React + Vite
+🎨 Color Palette Generator
+A simple and interactive web application that helps users create, explore, and save beautiful color palettes for their design projects. Built with a focus on usability, accessibility, and creative freedom.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+- Generate random color palettes instantly
 
-Currently, two official plugins are available:
+- Lock colors to preserve while randomizing others
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Copy HEX color codes to clipboard
 
-## Expanding the ESLint configuration
+- Save favorite palettes locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design for desktop and mobile
+
+🛠️ Tech Stack
+- HTML, CSS, JavaScript
+
+- React
