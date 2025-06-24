@@ -17,4 +17,3 @@ A simple and interactive web application that helps users create, explore, and s
 
 - React
 
-Website: http://localhost:5173/
